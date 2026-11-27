@@ -19,8 +19,7 @@ time.sleep(random_delay_seconds)
 # =========================================================================
 MY_ACCOUNT = "gikunju"
 TARGET_COMMUNITIES = [
-    "hive-185836",
-    "hive-183959",
+    "hive-166405"
 ]
 BASE_TAGS = ["history", "stories", "steemexclusive"]
 MIN_RC_THRESHOLD = 100.0
