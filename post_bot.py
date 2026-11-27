@@ -22,7 +22,7 @@ TARGET_COMMUNITIES = [
     "hive-166405"
 ]
 BASE_TAGS = ["history", "stories", "steemexclusive"]
-MIN_RC_THRESHOLD = 100.0
+MIN_RC_THRESHOLD = 60.0
 
 STEEM_NODES = [
     "https://api.moecki.online",
