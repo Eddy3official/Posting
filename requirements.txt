@@ -1,0 +1,7 @@
+beem
+pillow
+websocket-client
+requests
+pandas
+matplotlib
+mplfinance
